@@ -1,15 +1,10 @@
 # DataScience_Py-1.Excel
 
----
----
-
 ## Overview
 
 This repository fulfills the Unit 1 homework of the Data Science Bootcamp at Northwestern University.
 
 Unit 1 falls under 'Intro to Data Analytics & Excel Masters'. Topics explored include high-level concepts of data analytics and real-world data crunching with Excel formulas, pivot tables, and conditional formatting.
-
----
 
 ## Directory
 
@@ -19,8 +14,6 @@ Unit 1 falls under 'Intro to Data Analytics & Excel Masters'. Topics explored in
     * "StarterBook.xlsx" contains the initial dataset that includes metrics for 4,000 past Kickstarter projects
     * "FinalBook.xlsx" contains the market trend analysis for the initial dataset
 * <ins>**README.md** </ins>
-
----
 
 ## Project Analysis
 
@@ -43,8 +36,6 @@ Unit 1 falls under 'Intro to Data Analytics & Excel Masters'. Topics explored in
 * **Date Conversion using Excel's Date Format on Project Launch date and Deadline**
 
 * **Pivot Chart Line Graph on Campaign Outcome, Launch Date, Parent Category, and Years**
-
----
 
 ## Project Conclusion
 
